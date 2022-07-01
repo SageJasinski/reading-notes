@@ -16,6 +16,6 @@ they are:
 2. In order to be the best you have to be among the best. Always learn from your peers
 3. If it is hard you are learning. If it is easy you are stagnant, and being stagnant is lazy.
 
-#### About the author of these notes ✍️
+#### :writing-hand: About the author of these notes
 
 I am Sage Jasinski, a beginner at coeding. I have been interested in coding from a young age but only have dabbled in various scripts, usually making very simple little games that I could share with my little brothers and sister. It was their pure excitement at those stupidly simple games that helped grow my love and intrest for codeing today. Looking forward to learning more and continuing to have a growth mindset in all that I do. To get in touch with me check out my [GitHub Portfolio](https://github.com/SageJasinski)
