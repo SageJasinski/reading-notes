@@ -1,4 +1,4 @@
-# The power of a growing mind
+# The power of a Growing Mind
 <sub> Writen by: Sage Jasinski </sub>
 ### What is a Growth mindset?
   A growth mindset is a mindset that doesn't give up when it hits a wall or challenge. A growth mindset will show itself in moments of trial by persevering through the hardship rather than using the hardship as an excuse to stop or give up.
