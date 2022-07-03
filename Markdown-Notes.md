@@ -11,14 +11,14 @@ You will only need a handful of key markdown concepts to get your text looking s
 1. Headings
 2. Bold Text
 3. Block Quotes
-4. Formating Links
+4. Formatting Links
 
-Once you master these you will have the tools necessary to create your masterpice of text. So, lets get into it, shall we?
+Once you master these you will have the tools necessary to create your masterpiece of text. So, lets get into it, shall we?
 
 ### Headings (Just like this)
 Headings are a very important part of formatting text. Without headings, you wouldn't know where a section begins and ends. It would be incredible difficult to scan through an article to find relevant information. 
 
-In markdown, the way you indicate what text you want to be a heading is by using the # sign. Markdown gives you the option to have six diffrent sizes of headings. The way you indicate what size you want is by the number of # signs you use. One # sign is the largest heading and six # signs is the smallest heading. An example of the syntax (the way you would type it out) is as follows:
+In markdown, the way you indicate what text you want to be a heading is by using the # sign. Markdown gives you the option to have six different sizes of headings. The way you indicate what size you want is by the number of # signs you use. One # sign is the largest heading and six # signs is the smallest heading. An example of the syntax (the way you would type it out) is as follows:
 ```
 # Largest heading
 ## ...
@@ -27,10 +27,10 @@ In markdown, the way you indicate what text you want to be a heading is by using
 #####...
 ###### Smallest heading
 ```
-❗It is important to note that in the example above, after the last # sign has been entered, a space was placed. This is done for best practices as it makes reading the mardown easier. It wouldn't break your heading if you don't put the space there, but it will look sloppy.
+❗It is important to note that in the example above, after the last # sign has been entered, a space was placed. This is done for best practices as it makes reading the markdown easier. It wouldn't break your heading if you don't put the space there, but it will look sloppy.
 
 ### Bold Text
-Sometimes, when you are writing an important or key concept, you want to **emphasise** that concept so it stands out from the rest of the words on your page. In order to make a text **bold**, there are a couple diffrent ways. ❗The first is to surround the word or phrase you want in bold with two asterisks in the beginning and end of the word/phrase.
+Sometimes, when you are writing an important or key concept, you want to **emphasize** that concept so it stands out from the rest of the words on your page. In order to make a text **bold**, there are a couple different ways. ❗The first is to surround the word or phrase you want in bold with two asterisks in the beginning and end of the word/phrase.
 ```
 **Such as this**
 ```
@@ -59,7 +59,7 @@ As you can see, it makes your quote stand out from the rest of your page. The wa
 ❗When you are writing your quotes it is best practice to have an empty line between where your regular text ends and your quote begins. This will help separate the markdown sheet and make it easier to find where your quotes are at.
 
 ### Formatting Links
-The last method to making your text look professional is to make embedded links. Sometimes having URL posted can look sloppy and break the asthetic of the article you are writing. Most often, you want the option to just click/tap on a word that the user finds intriguing and have it take them to the places you desire. This syntax might be the hardest one here, but you've stuck with me this far so I think you are ready for it. The way you make a embedded link is to first surround the word you want the user to click on in square brackets
+The last method to making your text look professional is to make embedded links. Sometimes having URL posted can look sloppy and break the aesthetic of the article you are writing. Most often, you want the option to just click/tap on a word that the user finds intriguing and have it take them to the places you desire. This syntax might be the hardest one here, but you've stuck with me this far so I think you are ready for it. The way you make a embedded link is to first surround the word you want the user to click on in square brackets
 ```
 Like [This word]
 ```
@@ -74,7 +74,7 @@ Check out my [GitHub](github.com/Sagejasinski)
 ❗When making links, it is important to note that there is no space between the last square bracket of the word and the beginning parentheses of the URL. 
 
 ## You Made It!!
-I can't believe you got this far, you must be so excited to learn markdown. Ok, since you are so gungho about it, how about a little review?
+I can't believe you got this far, you must be so excited to learn markdown. Ok, since you are so gung-ho about it, how about a little review?
 
 1. When making a heading, you should __________ between your # and the beginning of your heading.
 2. To make a single word **bold**, you should use two ___ at the beginning and end of the word.
