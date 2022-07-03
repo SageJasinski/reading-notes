@@ -38,9 +38,9 @@ You can even bold a word in the middle of a sentence like this
 I love **bold** text
 ```
 The other way to bold text in markdown is to use Two underscores in the beging and end of the phrase
-
-`__Have you seen this bold text__`
-
+```
+__Have you seen this bold text__
+```
 Both of these methodes will give you the same result but much like the Heading it is best practice to use the Underscore methode when bolding __Multiple words or phrases together__ and to use the asterisxs method when bolding **one** or more words.
 
 ### Block Quotes
@@ -58,7 +58,15 @@ As you can see it makes your quote stand out from the rest of your page. The way
 When you are writing your quotes it is best practice to have an empty line between where your regular text ends and your quote beggins. This will help separate the Mardown sheet and make it easier to find where your quots are all at.
 
 ### Formating links
-The last methode to makeing your text look professional is to make embeded links. Sometimes having URL posted can look sloppy and break the asthetic of the article you are writing. Most often you want the opsion to just click/tap on a word that the user finds intreguing and have it take them to the places you desire. This syntax might be the hardest one here but you've stuck with me this far so i think your ready for it. The way you make a hyper link is to first surround the word you want the user to click on in squar brackets `Like [This word]` then imediatly after the brackets put the URL of the site you want linked in parenthases `Search [Google](www.google.com) for code` then when the user clicks the word it will take them to that website. An example of this would be:
+The last methode to makeing your text look professional is to make embeded links. Sometimes having URL posted can look sloppy and break the asthetic of the article you are writing. Most often you want the opsion to just click/tap on a word that the user finds intreguing and have it take them to the places you desire. This syntax might be the hardest one here but you've stuck with me this far so i think your ready for it. The way you make a hyper link is to first surround the word you want the user to click on in squar brackets `
+```
+Like [This word]
+```
+then imediatly after the brackets put the URL of the site you want linked in parenthases 
+```
+Search [Google](www.google.com) for code
+```
+then when the user clicks the word it will take them to that website. An example of this would be:
 
 Check out my [GitHub](github.com/Sagejasinski) 
 
