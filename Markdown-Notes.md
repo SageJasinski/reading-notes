@@ -26,7 +26,7 @@ In markdown the way you indicate what text you want to be a heading is by using 
 #####...
 ###### Smallest heading
 ```
-It is important to note that in the example above, ++after the last # sign has been entered a space was placed.++ This is done for best practices as it makes reading the mardown a lot easier. It woun't break your heading if you don't put the space there but it will look sloppy.
+❗It is important to note that in the example above, after the last # sign has been entered a space was placed. This is done for best practices as it makes reading the mardown a lot easier. It woun't break your heading if you don't put the space there but it will look sloppy.
 
 ### Bold Text
 Sometimes when your writing an important or key concept you want to **emphasise** that concept so it stands out from the rest of the words on your page. In order to make a text **bold** there are a couple diffrent ways. The first is to surround the word or phrase you want in bold with two asterisxs in the beginning and end of the word/phrase
