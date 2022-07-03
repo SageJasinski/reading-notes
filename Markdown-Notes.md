@@ -26,7 +26,7 @@ In markdown the way you indicate what text you want to be a heading is by using 
 #####...
 ###### Smallest heading
 ```
-It is important to note that in the example above, after the last # sign has been entered a space was placed. This is done for best practices as it makes reading the mardown a lot easier. It woun't break your heading if you don't put the space there but it will look sloppy.
+It is important to note that in the example above, ++after the last # sign has been entered a space was placed.++ This is done for best practices as it makes reading the mardown a lot easier. It woun't break your heading if you don't put the space there but it will look sloppy.
 
 ### Bold Text
 Sometimes when your writing an important or key concept you want to **emphasise** that concept so it stands out from the rest of the words on your page. In order to make a text **bold** there are a couple diffrent ways. The first is to surround the word or phrase you want in bold with two asterisxs in the beginning and end of the word/phrase
@@ -75,6 +75,9 @@ When makeing links it is important to note that there is no space between the la
 ## You Made it!!
 I can't belive you got this far you must be so excited to learn markdown. Ok since your so gungho about it how about a little review?
 
-When makeing a heading you should 
-! always leave a space
-between your # and the beging of your heading.
+1. When makeing a heading you should __________ between your # and the beging of your heading.
+2. To make a Single word **bold** You should use two ___ at the beging and end of the word
+3. If your are makeing a block quote you should leave a __________ between the last line of your sentence and the first line of your quote as best practice
+4. True or False: You should put a space between the [squar brackets] and the (Parenthases) of your URL?
+
+### Where are the answers?
