@@ -29,7 +29,7 @@ In markdown the way you indicate what text you want to be a heading is by using 
 ❗It is important to note that in the example above, after the last # sign has been entered a space was placed. This is done for best practices as it makes reading the mardown a lot easier. It woun't break your heading if you don't put the space there but it will look sloppy.
 
 ### Bold Text
-Sometimes when your writing an important or key concept you want to **emphasise** that concept so it stands out from the rest of the words on your page. In order to make a text **bold** there are a couple diffrent ways. The first is to surround the word or phrase you want in bold with two asterisxs in the beginning and end of the word/phrase
+Sometimes when your writing an important or key concept you want to **emphasise** that concept so it stands out from the rest of the words on your page. In order to make a text **bold** there are a couple diffrent ways. ❗The first is to surround the word or phrase you want in bold with two asterisxs in the beginning and end of the word/phrase
 ```
 **Such as this**
 ```
@@ -55,7 +55,7 @@ As you can see it makes your quote stand out from the rest of your page. The way
 > Here is an example of how that syntax would look when you are writing the quote
 ```
 
-When you are writing your quotes it is best practice to have an empty line between where your regular text ends and your quote beggins. This will help separate the Mardown sheet and make it easier to find where your quots are all at.
+❗When you are writing your quotes it is best practice to have an empty line between where your regular text ends and your quote beggins. This will help separate the Mardown sheet and make it easier to find where your quots are all at.
 
 ### Formating links
 The last methode to makeing your text look professional is to make embeded links. Sometimes having URL posted can look sloppy and break the asthetic of the article you are writing. Most often you want the opsion to just click/tap on a word that the user finds intreguing and have it take them to the places you desire. This syntax might be the hardest one here but you've stuck with me this far so i think your ready for it. The way you make a hyper link is to first surround the word you want the user to click on in squar brackets `
@@ -70,14 +70,15 @@ then when the user clicks the word it will take them to that website. An example
 
 Check out my [GitHub](github.com/Sagejasinski) 
 
-When makeing links it is important to note that there is no space between the last squar bracket of the word and the begining parenthases of the URL. 
+❗When makeing links it is important to note that there is no space between the last squar bracket of the word and the begining parenthases of the URL. 
 
 ## You Made it!!
 I can't belive you got this far you must be so excited to learn markdown. Ok since your so gungho about it how about a little review?
 
 1. When makeing a heading you should __________ between your # and the beging of your heading.
-2. To make a Single word **bold** You should use two ___ at the beging and end of the word
+2. To make a Single word **bold** You should use two ___ at the beging and end of the word.
 3. If your are makeing a block quote you should leave a __________ between the last line of your sentence and the first line of your quote as best practice
 4. True or False: You should put a space between the [squar brackets] and the (Parenthases) of your URL?
 
 ### Where are the answers?
+The answers are in the article above. The are preceded with an ❗mark before the line that holds the answer. But I already know you got all of them correct because your smart like that.
