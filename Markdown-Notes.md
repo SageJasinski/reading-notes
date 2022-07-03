@@ -29,7 +29,13 @@ In markdown the way you indicate what text you want to be a heading is by using 
 It is important to note that in the example above, after the last # sign has been entered a space was placed. This is done for best practices as it makes reading the mardown a lot easier. It woun't break your heading if you don't put the space there but it will look sloppy.
 
 ### Bold Text
-Sometimes when your writing an important or key concept you want to **emphasise** that concept so it stands out from the rest of the words on your page. In order to make a text **bold** there are a couple diffrent ways. The first is to surround the word or phrase you want in bold with two asterisxs in the beginning and end of the word/phrase `**Such as this**`. You can even bold a word in the middle of a sentence like this ` I love **bold** text`. The other way to bold text in markdown is to use Two underscores in the beging and end of the phrase `__Have you seen this bold text__`. Both of these methodes will give you the same result but much like the Heading it is best practice to use the Underscore methode when bolding __Multiple words or phrases together__ and to use the asterisxs method when bolding **one** or more words.
+Sometimes when your writing an important or key concept you want to **emphasise** that concept so it stands out from the rest of the words on your page. In order to make a text **bold** there are a couple diffrent ways. The first is to surround the word or phrase you want in bold with two asterisxs in the beginning and end of the word/phrase 
+`**Such as this**`
+You can even bold a word in the middle of a sentence like this 
+` I love **bold** text`
+The other way to bold text in markdown is to use Two underscores in the beging and end of the phrase
+`__Have you seen this bold text__`
+Both of these methodes will give you the same result but much like the Heading it is best practice to use the Underscore methode when bolding __Multiple words or phrases together__ and to use the asterisxs method when bolding **one** or more words.
 
 ### Block Quotes
 Block quotes are a great way to make your text stand out and look professional. Manny websites today prefer using the block quotes methode as apossed to just using boring old quotation marks. A block quote can look something like this:
