@@ -56,5 +56,6 @@ When makeing links it is important to note that there is no space between the la
 I can't belive you got this far you must be so excited to learn markdown. Ok since your so gungho about it how about a little review?
 
 When makeing a heading you should 
->! always leave a space
+! always leave a 
+
 between your # and the beging of your heading.
