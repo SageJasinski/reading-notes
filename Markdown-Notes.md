@@ -56,5 +56,5 @@ When makeing links it is important to note that there is no space between the la
 I can't belive you got this far you must be so excited to learn markdown. Ok since your so gungho about it how about a little review?
 
 When makeing a heading you should 
-<div class="meta_for_parser tablespecs" style="visibility:hidden">always leave a space</div>
+>! always leave a space
 between your # and the beging of your heading.
