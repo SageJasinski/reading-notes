@@ -27,4 +27,23 @@ When you are just starting out using a text editor will give you a good grasp on
 
 # Terminal Cheat Sheet
 
-Here are som euseful commands when working in a terminal. These commands will help you navigate through and edit diffrent fiels while working on your project:
+Here are some useful commands when working in a terminal. These commands will help you navigate through and edit diffrent fiels while working on your project:
+
+'eco $SHELL'
+
+This command will call what shell you are currently using
+
+'Up and Down arrow keys'
+
+These will call back previously entered codes that you have typed
+
+'pwd'
+
+Print Working Directory will show you the current directory you are woking in.
+'''
+
+ls
+
+'''
+this will show you a list, in your current location, of files and directories.
+
