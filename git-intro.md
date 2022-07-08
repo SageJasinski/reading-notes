@@ -44,8 +44,8 @@ Lastly, now that you have committed all changes you are going to want to push al
 
 ```
 git push origin main
-'''
- 
+```
+
 This command only works if you are in the main branch which most beginner projects will deal with so for now this is the only push command you'll need to know.
  
 Lastly always always always remember to ACP whenever you make any changes to a file or repository.
