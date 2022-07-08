@@ -29,70 +29,70 @@ When you are just starting out using a text editor will give you a good grasp on
 
 Here are some useful commands when working in a terminal. These commands will help you navigate through and edit diffrent fiels while working on your project:
 
-`eco $SHELL`
+``` eco $SHELL ```
 
 This command will call what shell you are currently using
 
-`Up and Down arrow keys`
+``` Up and Down arrow keys ```
 
 These will call back previously entered codes that you have typed
 
-`pwd`
+``` pwd ```
 
 Print Working Directory will show you the current directory you are woking in.
 
-`ls`
+``` ls ```
 
 This will show you a list, in your current location, of files and directories. You can use the arguement **-l** to give you a long list. Inorder to show hidden files you can use argument **-a**.
 
-` ~ ` 
+``` ~ ``` 
 
 This is a shortcut inorder to get to your home directory.
 
-` . (dot)`
+``` . (dot) ```
 
 This refers to your current directory
 
-`.. (dot,dot)` 
+``` .. (dot,dot) ``` 
 
 This command refers to the parent directory 
 
-`cd`
+``` cd ```
 
 This changes the directory to the specified directory. If the direstory you wish to change to has a space in the name (i.e. cd 'Home Kitchen') you would suround the directory name in  quotes '' to mark it as one item.
 
-`man`
+``` man ```
 
 This is the manuel command. if you follow it up with any command you will get a full page explaining the command and some arguments you can use with it. You can use the **-k** argument to search all the manuels for a key word. You can also use the **/<term>** argument to search the current page for a specific term.
 
-`mkdir`
+``` mkdir ```
 
 Makes a new directory
   
-`rmdir`
+``` rmdir ```
   
 Removes a directory
   
-`touch <file name>`
+``` touch <file name> ```
   
   Using this command will creat a blank file at the directory you are currently in
   
-  `cp<source><destination>`
+  ``` cp<source><destination> ```
   
   This command will copy the source file to the chosen desitnation
   
-  `mv<souce><desitnation>`
+  ``` mv<souce><desitnation> ```
   
   This will move the source file to the chosen destination
   
-  `rm<file>`
+  ``` rm<file> ```
   
   this will remove the file. you can use **-r** argument to remove non empty directories and fiels. It is advisable to use argument **-i** with the previouse argument as it will promt you before deleting any fiels, that way you know what is being removed.
   
-  `vi`
+  ``` vi ```
   
   Allows you to edit a file
   
-  `cat`
+  ``` cat ```
   
   Allows you to view a files content
