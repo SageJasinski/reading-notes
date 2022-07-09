@@ -1,26 +1,12 @@
-# The power of a Growing Mind
+# Code 102
 
-<sub> Writen by: Sage Jasinski </sub>
+## About Me
 
-### What is a Growth mindset?
+Hello my name is Sage Jasinski, I currently work as a QA test team lead but this has not quenched my thirst for code. Growing up if I didn't know how something worked I would do anything to learn about it. This came back to bite me when I became interested in how coding worked. At first it was a simple game for my little brothers and sister but that only showed me how much I really didn't know. Nowadays you can find me working on little projects here and there or playing video games and nerd games with my wife. For my fellow nerds I enjoy Magic the gathering, Dungeons and Dragons and all sorts of other adventure type games. My ultimate goal is to help build apps and web pages that change the world.
 
-  A growth mindset is a mindset that doesn't give up when it hits a wall or challenge. A growth mindset will show itself in moments of trial by persevering through the hardship rather than using the hardship as an excuse to stop or give up.
-  
-  A Growth mindset is Openness and is a clear mind, able to think critically when needed. A fixed mindset is a closed mind and not willing to work out challenges.
-  
-  A Fixed mindset sows seeds of jealousy towards our peers, whereas a Growth mindset sows seeds of understanding and comradery.
-  
-> My first impulse when I hit a roadblock is to immediately divert my attention to something else...recognizing what’s happening (I’m avoiding and losing focus) helps me make peace with it, and usually un-traps just enough of my gumption to do one more thing on the project. Then another one more thing. Then another. And so on. Eventually, enough momentum builds up and I’m back in the groove. - Steve Haffenden in *How you can benefit from a growth mindset*
+## Table of contents
 
-### What can we do to remind ourselves to keep a growth mindset?
-
-I have come up with 3 specific reminders which help me keep a Growth mindset
-they are:
-
-1. I have overcome harder problems in my life, I can overcome this one.
-2. In order to be the best you have to be among the best. Always learn from your peers
-3. If it is hard you are learning. If it is easy you are stagnant, and being stagnant is lazy.
-
-#### :writing_hand: About the author of these notes
-
-I am Sage Jasinski, a beginner at coeding. I have been interested in coding from a young age but only have dabbled in various scripts, usually making very simple little games that I could share with my little brothers and sister. It was their pure excitement at those stupidly simple games that helped grow my love and intrest for codeing today. Looking forward to learning more and continuing to have a growth mindset in all that I do. To get in touch with me check out my [GitHub Portfolio](https://github.com/SageJasinski)
+- [Class 1 - Growth Mindset](Growth-Mind-set.md)
+- [Class 1 - Markdown Notes](Markdown-Notes.md)
+- [Class 2 - The Coders Computer](The-Coders-Computer.md)
+- [Class 3 - Intro to git and GitHub](git-intro.md)

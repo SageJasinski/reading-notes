@@ -16,7 +16,7 @@ In order to work on a file that is from GitHub you first have to cd into the dir
 
 when you run the command `git status` you will see the file you edited marked in red this means that it needs to be staged or added in order to commit it to the repository. to do this you will want to run this command:
 
-```
+```markdown
 git add <filename>
 ```
 
@@ -24,7 +24,7 @@ Now if you run the `git status` command you will see the file marked in green me
 
 If you have deleted a file and are on the add step you will instead want to replace add with *rm* as this will mark it as a remove and not adding. the code would look like this:
 
-```
+```markdown
 git rm <filename>
 ```
 
@@ -32,7 +32,7 @@ git rm <filename>
 
 now that it's successfully added you need to run the commit command like this:
 
-```
+```markdown
 git commit -m "<Your message here>"
 ```
 
@@ -42,10 +42,10 @@ You might notice we used the *-m* argument here, this sets a message that you ty
 
 Lastly, now that you have committed all changes you are going to want to push all your changes to GitHub where everyone else can see them. Right now the Files have been committed to your computer but not to the GitHub repository, so to do this you'll want to run this command:
 
-```
+```markdown
 git push origin main
 ```
 
 This command only works if you are in the main branch which most beginner projects will deal with so for now this is the only push command you'll need to know.
- 
+
 Lastly always always always remember to ACP whenever you make any changes to a file or repository.
