@@ -24,3 +24,5 @@ they are:
 #### :writing_hand: About the author of these notes
 
 I am Sage Jasinski, a beginner at coeding. I have been interested in coding from a young age but only have dabbled in various scripts, usually making very simple little games that I could share with my little brothers and sister. It was their pure excitement at those stupidly simple games that helped grow my love and intrest for codeing today. Looking forward to learning more and continuing to have a growth mindset in all that I do. To get in touch with me check out my [GitHub Portfolio](https://github.com/SageJasinski)
+
+[Back to Home](README.md)

@@ -106,3 +106,5 @@ I can't believe you got this far, you must be so excited to learn markdown. Ok, 
 ### Where are the answers?
 
 The answers are in the article above. They are preceded with an ❗mark before the line that holds the answer. But I already know you got all of them correct because you are smart like that.
+
+[Back to Home](README.md)

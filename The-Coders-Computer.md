@@ -100,3 +100,5 @@ Removes a directory
   ``` cat ```
   
   Allows you to view a files content
+
+[Back to Home](README.md)
