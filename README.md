@@ -10,4 +10,4 @@ Hello my name is Sage Jasinski, I currently work as a QA test team lead but this
 - [Class 1 - Markdown Notes](Markdown-Notes.md)
 - [Class 2 - The Coders Computer](The-Coders-Computer.md)
 - [Class 3 - Intro to git and GitHub](git-intro.md)
-- [Class 4 - HTML-structure](Html-structure.html)
+- [Class 4 - HTML-structure](Html-structure.md)
