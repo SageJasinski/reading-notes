@@ -6,7 +6,7 @@ CSS , or cascading style sheet, is a style language for telling the browser how 
 
 ## What does it look like?
 
-CSS is a rules based language meaning you define a group of rules with styles that you want your html elements to have. So if you have a header or h1 tag and you want it to be blue in css you'd wright it:
+CSS is a rules based language meaning you define a group of rules with styles that you want your html elements to have. So if you have a header or h1 tag and you want it to be blue in css you'd write it:
 
 ```css
 h1 {
