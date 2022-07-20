@@ -24,6 +24,6 @@ To check the value of a variable you can use the `console.log()` which will prin
 
 `document.wright()` will place your value on the page
 
-Remember that where ever you place or call your script with in the html file that is where it will show up on the page.
+Remember that wherever you place or call your script within the html file that is where it will show up on the page.
 
 -[Home](README.md)
