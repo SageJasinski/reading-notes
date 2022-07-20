@@ -12,3 +12,4 @@ Hello my name is Sage Jasinski, I currently work as a QA test team lead but this
 - [Class 3 - Intro to git and GitHub](git-intro.md)
 - [Class 4 - HTML-structure](Html-structure.md)
 - [Class 5 - Css Style](Css-style.md)
+- [Class 6 - Java intro](Java-intro.md)
