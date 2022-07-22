@@ -13,4 +13,4 @@ Hello my name is Sage Jasinski, I currently work as a QA test team lead but this
 - [Class 4 - HTML-structure](Html-structure.md)
 - [Class 5 - Css Style](Css-style.md)
 - [Class 6 - Javascript intro](Java-intro.md)
--[Class 7 - Javascript functions](Functions.md)
+- [Class 7 - Javascript functions](Functions.md)

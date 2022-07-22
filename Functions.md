@@ -22,18 +22,18 @@ function name() {
 
 ## Operator Cheatsheet
 
--'+' Addition
--'-' Subtraction
--'*' multiplication
--'/' Division
--'%' Modulus(Division Remainder)
--'++' Increment
--'--' Decrement
--'==' equal to
--'===' exactly equal to including type
--'!=' not equal
--'&&' logical and
--`||` logical or
--`!` logical not
+- `+` Addition
+- `-` Subtraction
+- `*` multiplication
+- `/` Division
+- `%` Modulus(Division Remainder)
+- `++` Increment
+- `--` Decrement
+- `==` equal to
+- `===` exactly equal to including type
+- `!=` not equal
+- `&&` logical and
+- `||` logical or
+- `!` logical not
 
 [Back to Home](README.md)
