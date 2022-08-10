@@ -8,7 +8,7 @@ Hello my name is Sage Jasinski. I used to code as a hobby making small games for
 
 ### Code 201
 
-- [Day 1 reading notes](README.md)
+- [Class 01 reading notes](class-01.md)
 - [Day 2 reading notes](README.md)
 - [Day 3 reading notes](README.md)
 - [Day 4 reading notes](README.md)
