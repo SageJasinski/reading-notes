@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey my name is Sage Jasinski, I currently work as a QA test team lead but this has not quenched my thirst for code. Growing up if I didn't know how something worked I would do anything to learn about it. This came back to bite me when I became interested in how coding worked. At first it was a simple game for my little brothers and sister but that only showed me how much I really didn't know. Nowadays you can find me working on little projects here and there or playing video games and nerd games with my wife. For my fellow nerds I enjoy Magic the gathering, Dungeons and Dragons and all sorts of other adventure type games. My ultimate goal is to help build apps and web pages that change the world.
+Hello my name is Sage Jasinski. I used to code as a hobby making small games for my younger siblings to play or even just making little raspberry pi projects around the house. I am here at code fellows because I want to turn my love of coding into a career to help support my growing family. I have always been drawn to technology, watching every tech event reveal I could find since I was little. My wife and I enjoy gaming, wether that be board game, card game, or video game, and we are always on the look out for a new game to try.
 
 ## Table of contents
 
