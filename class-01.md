@@ -9,11 +9,11 @@ HTML, CSS, and JS are parsed separately in the browser. The browser will first r
 
 ## Finding Images
 
-Searching for images on google is a great way to find images for your website. Although most of the images are copyrighted you can go to the "tools" section then go to the "usage rights" section and select "Creative Commons  licenses."
+Searching for images on google is a great way to find images for your website. Although most of the images are copyrighted you can go to the “tools” section then go to the “usage rights” section and select “Creative Commons licenses.”
 
 ## Variable variables
 
-Variables are items that store certain information that can be used for later. Variables are important to Java script because they hold all the functionality that makes java script what it is. You can't have a login page without javascript and variables, and you can't have functional buttons without javascript and variables either.  With out variables you couldn't interact with the web page because you wouldn't be able to change or set certain values within functions or the page.
+Variables are items that store certain information that can be used for later. Variables are important to Java script because they hold all the functionality that makes java script what it is. You can’t have a login page without JavaScript and variables, and you can’t have functional buttons without JavaScript and variables either. With out variables you couldn’t interact with the web page because you wouldn’t be able to change or set certain values within functions or the page.
 
 In javascript there are five different types of variables:
 
@@ -35,19 +35,19 @@ let number = 30;
 let boolean = true;
 ```
 
-4. Array - An array is an asortment of values stored in one refrence. to indicate an array use squar brackets at the begginning and end of your array.
+4. Array - An array is an assortment of values stored in one reference. to indicate an array use square brackets at the beginning and end of your array.
 
 ```js
 let array = [12,'Hello',13,'Hi'];
 ```
 
-5. Object - An object is anyother type of data in Java script.
+5. Object - An object is any other type of data in Java script.
 
 ```js
 let title = document.getElementbyID('title');
 ```
 
-Adding javascript to your html document is easy and will allow you to use these variable types in your web page. Simple call the script where you need it useing the `<script>` element in your HTML file.
+Adding javascript to your html document is easy and will allow you to use these variable types in your web page. Simple call the script where you need it using the `<script>` element in your HTML file.
 
 ```html
 <script src="filename.js"></script>
@@ -83,7 +83,7 @@ Each of these plays a special role in the web page and should be looked out for.
 
 ### Semantics
 
-It is benificial to use semantic tags as it will help the read ability of your code note only to you and other coders but also to the browser. for example setting a top level heading with `<span>` is a little confusing to read but an `<h1>` element is easily identifiable and read able while also setting its contents as a high level heading.
+It is beneficial to use semantic tags as it will help the read ability of your code note only to you and other coders but also to the browser. for example setting a top level heading with `<span>` is a little confusing to read but an `<h1>` element is easily identifiable and read able while also setting its contents as a high level heading.
 
 ## Metadata
 
