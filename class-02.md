@@ -54,7 +54,7 @@ In addition to these types you also have comparison operators like:
 - Greater than or less than `< and >`
 - Greater/Less than or equal to `<= or >=`
 
-You can also use logical operators such as && AND which allows you to change together multiple expressions so that ALL of them have to evaluate to true for the expression to return true. the || OR operator is used for linking multiple expressions together and will return true if ONE or more expression evaluate to true.
+You can also use logical operators such as `&&` AND which allows you to change together multiple expressions so that ALL of them have to evaluate to true for the expression to return true. The `||` OR operator is used for linking multiple expressions together and will return true if ONE or more expression evaluate to true.
 
 All these operators are great for use in functions and if statements.
 
