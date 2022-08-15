@@ -9,7 +9,7 @@ Hello my name is Sage Jasinski. I used to code as a hobby making small games for
 ### Code 201
 
 - [Class 01 reading notes](class-01.md)
-- [Day 2 reading notes](README.md)
+- [Class 02 notes](class-02.md)
 - [Day 3 reading notes](README.md)
 - [Day 4 reading notes](README.md)
 - [Day 5 reading notes](README.md)
