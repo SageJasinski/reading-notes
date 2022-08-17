@@ -10,7 +10,7 @@ Hello my name is Sage Jasinski. I used to code as a hobby making small games for
 
 - [Class 01 reading notes](class-01.md)
 - [Class 02 notes](class-02.md)
-- [Day 3 reading notes](README.md)
+- [Class 03 notes](class-03.md)
 - [Day 4 reading notes](README.md)
 - [Day 5 reading notes](README.md)
 - [Day 6 reading notes](README.md)
