@@ -4,7 +4,7 @@
 
 when writing a list in html you should use an unordered list when you want to have bullet points or other marks that do not need to be in a sequential order. us the Ordered list when you would like the list items to be in a sequential order.To change the bullet style of the list use the `type` attribute to set if you want circles, disc, or square bullets. You can also change the NUmbering on an ordered list with the `type` attribute to lower/uppercase letters, roman numerals, or numbers by default.
 
-## CSS box moddel
+## CSS box model
 
 In the box model a margin is like a chicken coupe which surrounds and protects everything inside it. The padding is like the mother hen, who sits in the chicken coupe and provides space and protection for the eggs.
 
@@ -30,7 +30,7 @@ To make writing operator a little faster here are 5 commonly used shorthands for
 1. Addition - `x += f()` is the same as ` x = x + f()`
 2. Subtraction - `x -=3` is the same as ` x = x - 3`
 3. Multiplication - ` x *= 1` is the same as `x = x *1`
-4. Logical OR - `x ||= f()` is the same as ` x = x || f`
+4. Logical OR - `x || = f()` is the same as ` x = x || f()`
 5. Logical AND - `x &&= f` is the same as `x = x && f`
 
 If you try to add different data types together you will get different outputs depending on the order you place them. for example:
