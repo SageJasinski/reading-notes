@@ -1,0 +1,9 @@
+# Class 05 notes
+
+## HTML
+
+The **alt** attribute of the image tag is used to describe the img being displayed. this is useful for screen readers or if something happens and the image isn't displayed then the user can still know what the image was. In order to group these elements together you can use the semantic `<figure>` tag. When deleing with images there are many different file types. Other than jpeg you might also see SVG which is a vector image type and is scalable while also maintaining an accurate picture. FOr animations you might see a GIF img which is a simple animation img form. If you wanted to share a screenshot on your web page you would use a lossless format like PNG which will allow you to display the full image without loosing much detail.
+
+## CSS
+
+When coloring items in CSS it's important to note that the **color** tag will color the foreground, or text, of the element were as background will color the box from content to padding. If a friend where to ask you to color his blog you would want to use colors that are easy on the eyes and work well together, combing both the **color** and **background-color** attributes for all elements. when choosing fonts for a page you'll want to ask your self if the text you are styling needs to be a decorative font or one that the user will need to read a lot of text in. In addition to the font you can change the size of your text with `font-size` and specify how large you would like the text to be displayed. You can also change the weight, or boldness, of the text by using `font-weight`. To make certain text italic, bold, or underlined you can use the `font-style` attribute. If you wanted space between certain text characters in an h1 you could either use the `letter-spacing` property,which can control the horizontal spacing between letters, or you can use the `word-spacing` property which sets the length of space between words and between tags.
