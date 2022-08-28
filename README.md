@@ -18,7 +18,7 @@ Hello my name is Sage Jasinski. I used to code as a hobby making small games for
 - [Class 08 notes](class-08.md)
 - [Class 09 notes](class-09.md)
 - [Class 10 notes](class-10.md)
-- [Day 11 reading notes](README.md)
+- [Class 11 notes](class-11.md)
 - [Day 12 reading notes](README.md)
 - [Day 13 reading notes](README.md)
 - [Day 14 reading notes](README.md)
