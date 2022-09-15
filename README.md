@@ -6,7 +6,9 @@ Hello my name is Sage Jasinski. I used to code as a hobby making small games for
 
 ## Table of contents
 
-### Code 201
+### Code 301 - Intermediate Software Development
+
+### Code 201 - Foundation of Software Development
 
 - [Class 01 reading notes](class-01.md)
 - [Class 02 notes](class-02.md)
@@ -24,7 +26,7 @@ Hello my name is Sage Jasinski. I used to code as a hobby making small games for
 - [Class 14 notes](class-14.md)
 - [Day 15 reading notes](README.md)
 
-### Code 102
+### Code 102 - Intro to Software Development
 
 - [Class 1 - Growth Mindset](Growth-Mind-set.md)
 - [Class 1 - Markdown Notes](Markdown-Notes.md)
