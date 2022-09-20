@@ -8,6 +8,9 @@ Hello my name is Sage Jasinski. I used to code as a hobby making small games for
 
 ### Code 301 - Intermediate Software Development
 
+- [Class 1 readings](README.md)
+- [Class 2 readings](./301/day2.md)
+
 ### Code 201 - Foundation of Software Development
 
 - [Class 01 reading notes](class-01.md)
