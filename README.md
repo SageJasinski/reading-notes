@@ -19,6 +19,7 @@ Hello my name is Sage Jasinski. I used to code as a hobby making small games for
 - [Class 10 readings](./301/day10.md)
 - [Class 11 readings](./301/day11.md)
 - [Class 12 readings](./301/day12.md)
+- [Class 13 readings](./301/day13.md)
 
 ### Code 201 - Foundation of Software Development
 
