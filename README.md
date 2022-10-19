@@ -6,6 +6,10 @@ Hello my name is Sage Jasinski. I used to code as a hobby making small games for
 
 ## Table of contents
 
+### Code 401 - Advanced Software Development
+
+- [Class 1 readings](README.md)
+
 ### Code 301 - Intermediate Software Development
 
 - [Class 1 readings](README.md)
