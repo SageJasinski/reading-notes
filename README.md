@@ -8,7 +8,11 @@ Hello my name is Sage Jasinski. I used to code as a hobby making small games for
 
 ### Code 401 - Advanced Software Development
 
-- [The command line](README.md)
+- [The command line](401/commandline.md)
+- [GrowthMindset Notes](401/growthmind.md)
+- [SQL practice](401/sqlPractice.md)
+- [The command line](401/Class01.md)
+
 
 ### Code 301 - Intermediate Software Development
 
