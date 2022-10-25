@@ -13,7 +13,7 @@ Hello my name is Sage Jasinski. I used to code as a hobby making small games for
 - [SQL practice](401/sqlPractice.md)
 - [The command line](401/Class01.md)
 - [Datastructures](401/Datastructures.md)
-
+- [Engineering](401/Engineering.md)
 
 ### Code 301 - Intermediate Software Development
 
