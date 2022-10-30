@@ -16,6 +16,9 @@ Hello my name is Sage Jasinski. I used to code as a hobby making small games for
 - [Engineering](401/Engineering.md)
 - [Readings class 2](401/Class02.md)
 - [Reading class 3](401/class03.md)
+- [Reading class 4](401/class04.md)
+- [Class 5 discussion](README.md)
+- [Readings class 6](401/class06.md)
 
 ### Code 301 - Intermediate Software Development
 
